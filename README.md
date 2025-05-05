@@ -1,7 +1,9 @@
 # MNIST Digit Classifier
 
 Ce projet est un mini système de reconnaissance de chiffres manuscrits basé sur le dataset MNIST. Il utilise un réseau de neurones MLP (`scikit-learn`) et propose des visualisations claires ainsi qu’une analyse des erreurs.
+
 ||
+
 This project is a lightweight handwritten digit recognition system based on the MNIST dataset.  
 It uses an MLP neural network (`scikit-learn`) and provides clear visualizations along with an error analysis.
 
